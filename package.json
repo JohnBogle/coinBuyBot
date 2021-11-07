@@ -1,0 +1,24 @@
+{
+  "name": "bithumb_20150824_restfulapi-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bogleBittumb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bithumb": "^1.1.2",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "node-bithumb": "^1.0.6",
+    "node-fetch": "^3.0.0",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "sleep-promise": "^9.1.0",
+    "uuid": "^8.3.2"
+  },
+  "type": "module"
+}

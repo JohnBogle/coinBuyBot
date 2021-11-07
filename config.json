@@ -1,0 +1,20 @@
+{
+    "bittumb_key": {
+        "access_key" : "",
+        "secret_key" : ""
+    },
+    "bittumb_config": {
+        "buy_price" : "2000",
+        "no_buy_coin" : "BTC,ETH",
+        "buy_coin" : ""
+    },
+    "upbit_key": {
+        "access_key" : "",
+        "secret_key" : ""
+    },
+    "upbit_config": {
+        "buy_price" : "5000",
+        "no_buy_coin" : "",
+        "buy_coin" : ""
+    }
+}
