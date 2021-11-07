@@ -1,9 +1,4 @@
 # BogleBot - All Coin Buy Bot 
-[![Build Status][travis-badge]][travis-badge-url]
-
-
-
----
 
 It is a bot to make it easy to buy all coins on Upbit and Bithumb exchanges market.
 
